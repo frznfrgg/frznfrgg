@@ -6,9 +6,9 @@
 ### 👨‍💻 About me:
 Student of the MIPT Deep Learning School, average DS and ML enjoyer 🌱
 
--📫 You can contact me via: ![Static Badge](https://img.shields.io/badge/Telegram-black?logo=Telegram&link=https%3A%2F%2Ft.me%2Ffrznfrg) ![Static Badge](https://img.shields.io/badge/Gmail-black?logo=gmail&link=https%3A%2F%2Fwww.google.com%2Fintl%2Fru%2Fgmail%2Fabout%2F) ![Static Badge](https://img.shields.io/badge/Kaggle-black?logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Ffrznfrg)
+- 📫 You can contact me via: ![Static Badge](https://img.shields.io/badge/Telegram-black?logo=Telegram&link=https%3A%2F%2Ft.me%2Ffrznfrg) ![Static Badge](https://img.shields.io/badge/Gmail-black?logo=gmail&link=https%3A%2F%2Fwww.google.com%2Fintl%2Fru%2Fgmail%2Fabout%2F) ![Static Badge](https://img.shields.io/badge/Kaggle-black?logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Ffrznfrg)
 
--💻 Skills:
+- 💻 Skills:
 
 
 <p align="left">
