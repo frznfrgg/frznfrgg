@@ -1,10 +1,11 @@
 # Hi there, I'm Nick!
+
 ![](https://github.com/frznfrgg/frznfrgg/blob/main/old-school-video-games.gif)
 
 ---
 
 ### 👨‍💻 About me:
-Student of the MIPT Deep Learning School, average DS and ML enjoyer 🌱
+Graduate of the MIPT Deep Learning School, love DS, ML and everything related 🌱
 
 - 📫 You can contact me via: ![Static Badge](https://img.shields.io/badge/Telegram-black?logo=Telegram&link=https%3A%2F%2Ft.me%2Ffrznfrg) ![Static Badge](https://img.shields.io/badge/Gmail-black?logo=gmail&link=https%3A%2F%2Fwww.google.com%2Fintl%2Fru%2Fgmail%2Fabout%2F) ![Static Badge](https://img.shields.io/badge/Kaggle-black?logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Ffrznfrg)
 
