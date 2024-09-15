@@ -1,5 +1,5 @@
 # Hi there, I'm Nick!
-![20210303-dino-game-5 8cbd2dc ebd0b7a5a9f7f1ec142b7662189d3a79](https://tenor.com/Xafq.gif)](https://github.com/frznfrgg/frznfrgg/assets/114361740/80e060b7-2034-4c2e-98b2-6f749ce412b9)
+![20210303-dino-game-5 8cbd2dc ebd0b7a5a9f7f1ec142b7662189d3a79](https://github.com/frznfrgg/frznfrgg/assets/114361740/80e060b7-2034-4c2e-98b2-6f749ce412b9)
 
 ---
 
